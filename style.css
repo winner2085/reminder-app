@@ -1,0 +1,44 @@
+.everything {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: brown;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 700px;
+    border-radius: 10px;
+}
+
+.title {
+    display: flex;
+    color: white;
+}
+
+
+.something {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 600px;
+    background-color: salmon;
+    padding-left: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 500px;
+    height: 580px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 3px solid grey;
+}
+
+.button {
+    background-color: gold;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
